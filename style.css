@@ -1,0 +1,118 @@
+.page
+{
+width: 300px;
+margin: auto;
+font-size: 16px;
+font-family: verdana,sans-serif;
+
+}
+
+body
+{
+background-image: url("fond.png");
+}
+
+.fond
+{
+  width: 740px;
+  height: 360px;
+  background: gray;
+  margin-left: 280px;
+  margin-top: 150px;
+  font-family: verdana,sans-serif;
+}
+
+.fondbas
+{
+  width: 740px;
+  height: 100px;
+  background: #AFB732;
+  float: right;
+  margin-top: 30px;
+}
+
+#photopetit
+{
+  width: 150px;
+  height: 200px;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.nom
+{
+  font-size: 33px;
+  margin-left: 200px;
+  margin-top: -239px
+}
+
+
+.status
+{
+  font-size: 20px;
+  margin-left: 200px;
+  margin-top: -30px;
+}
+
+.commentaire
+{
+font-size: 15px;
+margin-left: 200px;
+}
+
+.section1
+{
+  margin-left: 450px;
+  margin-top: -217px;
+}
+
+.section1 p
+{
+  text-align: center;
+  background: #AFB732;
+  margin-left: auto;
+  margin-right: 210px;
+}
+
+.section2
+{
+  margin-left: 570px;
+  margin-top: -227px;
+}
+
+.github
+{
+  text-align: left;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+
+#gitpetit
+{
+  width: 60px;
+  height: 60px;
+}
+
+.face
+{
+  text-align: center;
+  margin-top: -63px
+}
+
+#facepetit
+{
+  width: 60px;
+  height: 60px;
+}
+
+.link
+{
+margin-left: 645px;
+margin-top: -70px;
+}
+
+#linkpetit
+{
+  width: 66px;
+  height: 68px;
+}
